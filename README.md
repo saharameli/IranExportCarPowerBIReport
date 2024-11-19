@@ -1,1 +1,2 @@
 # IranExportCarPowerBIReport
+This Power BI dashboard project provides insights into car brands imported into Iran, comparing data from two years. The dashboard helps analyze which car brands were imported through various customs borders, with a focus on the comparison between the two years. The visualizations showcase trends, preferences, and data based on the customs borders used for car imports.
